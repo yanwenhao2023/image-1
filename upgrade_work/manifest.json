@@ -1,0 +1,10 @@
+{
+  "name": "诗经集 · 离线诗歌库",
+  "short_name": "诗经集",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#f7f4ee",
+  "lang": "zh-CN",
+  "scope": "./"
+}
